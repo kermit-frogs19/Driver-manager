@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\SCMC_class.h(31,3): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\SCMC_class.h(32,3): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\SCMC_class.h(122,3): warning C4996: 'wcsncat': This function or variable may be unsafe. Consider using wcsncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SysSoftLab5.vcxproj -> D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\x64\Debug\SysSoftLab5.exe

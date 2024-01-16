@@ -1,0 +1,7 @@
+C:\Users\dimamidus\source\repos\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.MyForm.resources
+C:\Users\dimamidus\source\repos\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.vcxproj.GenerateResource.cache
+C:\Users\dimamidus\source\repos\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.vcxproj.AssemblyReference.cache
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.vcxproj.AssemblyReference.cache
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.vcxproj.SuggestedBindingRedirects.cache
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.MyForm.resources
+D:\private\prinew\lrn\syssoft\projects\SysSoftLab5\SysSoftLab5\x64\Debug\SysSoftLab5.vcxproj.GenerateResource.cache
